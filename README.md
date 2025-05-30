@@ -1,4 +1,3 @@
-# Uber-Dashboard
 # 🚗 Uber Trip Analysis Dashboard – Power BI Project
 
 Welcome to my **first Power BI dashboard project**, designed to showcase my learning journey in **data analytics and business intelligence**. This interactive report provides an in-depth analysis of Uber trip data, using engaging visuals and insightful DAX calculations.
