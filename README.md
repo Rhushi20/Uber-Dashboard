@@ -3,7 +3,6 @@
 
 Welcome to my **first Power BI dashboard project**, designed to showcase my learning journey in **data analytics and business intelligence**. This interactive report provides an in-depth analysis of Uber trip data, using engaging visuals and insightful DAX calculations.
 
-![Uber Trip Analysis Overview]  
 *Overview Dashboard*
 
 ---
@@ -51,12 +50,6 @@ The **Uber Trip Analysis Dashboard** explores booking behavior, trip metrics, pa
 1. **Overview Analysis** – Summary metrics, vehicle usage, booking patterns  
 2. **Time Analysis** – Hourly/daily breakdowns and temporal booking behavior  
 3. **Detailed View** – Full trip-level dataset for filtering and inspection
-
-![Time Analysis]  
-*Time-Based Insights*
-
-![Trip Details] 
-*Trip-Level Data Exploration*
 
 ---
 
