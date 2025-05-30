@@ -66,13 +66,3 @@ This project was instrumental in helping me:
 ## 🤝 Let's Connect!
 
 I welcome feedback from data professionals and would love to connect on projects, insights, or opportunities in **Power BI** and **Data Analytics**.
-
----
-
-### 🔖 Tags
-
-`#PowerBI` `#DataAnalytics` `#BusinessIntelligence` `#DAX` `#DashboardDesign` `#UberTripAnalysis` `#DataVisualization` `#LearningAndDevelopment` `#FirstDashboardProject`
-
----
-
-> 📁 **Note**: Make sure to update image paths if you rename or move images in the repo.
